@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="media_types_array">
+        <item>Text</item>
+        <item>Image</item>
+        <item>Video</item>
+        <item>PDF</item>
+    </array>
+</resources>

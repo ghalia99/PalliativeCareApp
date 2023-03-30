@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965021679865",
+    "project_id": "palliativecareapp-9e927",
+    "storage_bucket": "palliativecareapp-9e927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965021679865:android:6b102566217f4ca2eaa228",
+        "android_client_info": {
+          "package_name": "com.example.palliativecareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965021679865-ulns6sod9v2jj79t19b48h5sohnde6o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulUxgYET4CY8LT8bxsVST9YAMVHWvYEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965021679865-ulns6sod9v2jj79t19b48h5sohnde6o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
